@@ -1,11 +1,11 @@
-# Placar Judô - Associação Santa Isabel
-
-Gerenciar competições de judô locais com eficiência, transparência e agilidade, utilizando uma arquitetura de duas telas: uma para controle administrativo e outra para exibição pública.
 
 **Exibicao:**
-<img width="1920" height="1080" alt="placar judo pagina" src="https://github.com/user-attachments/assets/8e624f3f-a191-49bb-8757-8f1a84a0be59" />
+<img width="1352" height="768" alt="placares" src="https://github.com/user-attachments/assets/33384b8c-7dcf-43d3-a569-9ed31ee19521" />
+
 **O que é esse placar de Judô?**
+Gerenciar competições de judô locais com eficiência, transparência e agilidade, utilizando uma arquitetura de duas telas: uma para controle administrativo e outra para exibição pública.
 ---
+
 Esse sistema é como um painel digital usado durante uma luta de judô. Ele mostra, de forma clara e organizada, tudo o que está acontecendo na luta, como se fosse um placar eletrônico de estádio.
 
 **O que aparece na tela?**
