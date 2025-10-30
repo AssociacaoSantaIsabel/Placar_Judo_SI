@@ -1,10 +1,14 @@
 
-**Exibicao:**
+**Exibição**
+---
+
 <img width="1352" height="768" alt="placares" src="https://github.com/user-attachments/assets/33384b8c-7dcf-43d3-a569-9ed31ee19521" />
 
 **O que é esse placar de Judô?**
-Gerenciar competições de judô locais com eficiência, transparência e agilidade, utilizando uma arquitetura de duas telas: uma para controle administrativo e outra para exibição pública.
 ---
+
+Gerenciar competições de judô locais com eficiência, transparência e agilidade, utilizando uma arquitetura de duas telas: uma para controle administrativo e outra para exibição pública.
+
 
 Esse sistema é como um painel digital usado durante uma luta de judô. Ele mostra, de forma clara e organizada, tudo o que está acontecendo na luta, como se fosse um placar eletrônico de estádio.
 
@@ -34,7 +38,8 @@ Tudo que aparece na tela é atualizado automaticamente a cada segundo, com base 
 
 
 **Controle:**
-<img width="1920" height="1080" alt="judo controle" src="https://github.com/user-attachments/assets/266b5822-a88b-48d7-b27f-f6d295b6769e" />
+<img width="1366" height="572" alt="controle" src="https://github.com/user-attachments/assets/0b9eb0c4-2c9d-4106-a723-5deb483750a5" />
+
 
 **Tela de Controle – Mesario da Luta**
 ---
