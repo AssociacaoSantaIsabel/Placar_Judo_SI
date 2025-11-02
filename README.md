@@ -63,12 +63,7 @@ Atualmente, o sistema ainda está em fase de desenvolvimento e funciona localmen
 
 **Para utilizar o sistema, você precisa:**
 
-1.Instalar o IntelliJ IDEA ou qualquer outro programa que rode código HTML, CSS e JavaScript.
-- (Recomendado): https://www.jetbrains.com/pt-br/idea/#
-- [Visual Studio Code](https://code.visualstudio.com/download)
+1.Baixar o projeto em formato ZIP com os arquivos mais recentes.
 
-2.Baixar o projeto em formato ZIP com os arquivos mais recentes.
+2.Abrir o projeto no start.bat
 
-3.Abrir o projeto no IntelliJ e executar localmente. Assim, você poderá visualizar e testar o placar diretamente no seu navegador, sem depender de servidores pagos ou hospedagem externa.
-
-Essa é uma solução temporária, mas totalmente funcional — inclusive precisando conexão com a internet so no primeiro acesso. Com o tempo, pretendo lançar melhorias e tornar o acesso mais fácil para todos, incluindo uma versão online para uso em eventos e arquibancadas.
